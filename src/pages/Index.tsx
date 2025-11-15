@@ -138,7 +138,7 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in-up">
               <Badge className="mb-4 bg-accent/20 text-accent-foreground border-accent">
-                Персональное приключение в реальном городе
+                Персональные приключения в Вашем городе
               </Badge>
               <h1 className="text-5xl md:text-6xl font-cormorant font-bold mb-6 leading-tight">
                 Услышьте истории, которые шепчет город
@@ -399,7 +399,7 @@ const Index = () => {
               <span className="font-cormorant font-bold">Эхо города</span>
             </div>
             <p className="text-sm text-muted-foreground text-center">
-              © 2024 Эхо города. Иммерсивные аудио-гиды и квесты
+              © 2025 Эхо города. Иммерсивные аудио-гиды и квесты
             </p>
             <div className="flex items-center gap-4">
               <a href="#" className="text-sm hover:text-secondary transition-colors">Политика конфиденциальности</a>
