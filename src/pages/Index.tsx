@@ -380,8 +380,8 @@ const Index = () => {
               Telegram
             </Button>
             <Button variant="outline" size="lg">
-              <Icon name="Instagram" size={20} className="mr-2" />
-              Instagram
+              <Icon name="Users" size={20} className="mr-2" />
+              ВКонтакте
             </Button>
             <Button variant="outline" size="lg">
               <Icon name="Mail" size={20} className="mr-2" />
